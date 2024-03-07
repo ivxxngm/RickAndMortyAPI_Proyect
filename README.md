@@ -14,8 +14,4 @@ Para usar este proyecto, simplemente abre el archivo index.html en tu navegador.
 Dependencias
 Este proyecto no tiene dependencias externas. Solo utiliza la API Fetch nativa de JavaScript para obtener datos y el DOM API para mostrarlos.
 
-Contribuir
-Si deseas contribuir a este proyecto, por favor haz un fork del repositorio y crea una solicitud de extracción con tus cambios.
-
-Licencia
-Este proyecto está licenciado bajo los términos de la licencia MIT.
+Si desea alguna informacion mas especifica del proyecto no se olvide contactar con ivan.garciamontalvo.23@campusfp.es
